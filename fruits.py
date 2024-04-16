@@ -24,7 +24,7 @@ def preprocess_image(image):
 # GitHub and Colab links
 def render_links():
     st.sidebar.markdown(
-        "[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/Mr-Nikhil-M)",
+        "[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/Mr-Nikhil-M/Fruits_classification_CNN)",
         unsafe_allow_html=True)
     st.sidebar.markdown(
         "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1n34c5uzgQhmGVyEu7dfh-WBRkv0VTO-9#scrollTo=aq5cNx2EMIfk)",
